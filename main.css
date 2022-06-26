@@ -1,4 +1,9 @@
 body {
- background-color: yellow;
+ background-color: firebrick;
  font-size: 12px;
+ font-weight: bolder;
+}
+
+h1 {
+ color: white;
 }
